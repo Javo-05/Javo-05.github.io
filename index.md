@@ -1,7 +1,7 @@
 # Javohir Abdullaev's Portfolio
 
 I am a computer engineering student at CSUF and I expect to graduate in 2027. 
-https://github.com/Javo-05
+[https://github.com/Javo-05](https://github.com/Javo-05)
 
 # Favorite CPSC 120L Labs
 * Lab 1
